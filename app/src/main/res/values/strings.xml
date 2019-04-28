@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Firebase Authentication</string>
+
+    <string name="create_account">Create new account</string>
+
+
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="not_yet">Not member yet? SIGN UP</string>
+
+
+    <string name="name">Name</string>
+    <string name="email_reg">Email</string>
+    <string name="password_reg">Password</string>
+    <string name="con_password_reg">Confirm Password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="member">Already a member? SIGN IN</string>
+
+
+</resources>
