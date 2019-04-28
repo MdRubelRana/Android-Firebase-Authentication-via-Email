@@ -31,7 +31,7 @@ You have the freedom to change the API level and you have to replace my firebase
 <br><br>
 
 <h2>In short:</h2>
-<strong><uPlease do not use this code for any kind of business/commercial area, this is only for educational purposes./></strong><br><br>
+<strong>Please do not use this code for any kind of business/commercial area, this is only for educational purposes.</strong><br><br>
 
 
                                                 ******* Happy Coding ******* 
