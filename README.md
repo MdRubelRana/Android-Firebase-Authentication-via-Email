@@ -7,6 +7,17 @@ You can easily setup user authentication for your android app by using email/pas
 
 You have the freedom to change the API level and you have to replace my firebase app package by your package.<br><br>
 
+
+<h2>Normal Features: </h2>
+✍✍ Sign In (existing user using firebase).<br>
+✍✍ Sign Up (registration new user).<br>
+✍✍ Logout.<br>
+✍✍ Easy to exit.<br>
+✍✍ Check new/existing user after exit (if not then redirect to previous activity, otherwise you have to register).<br>
+✍✍ API 23 (marshmallow 6.0) and higher API supported.
+<br><br>
+
+
 <h2>Screenshots: </h2>
 
 ![Untitled-1](https://user-images.githubusercontent.com/33339942/56866629-47937800-69fd-11e9-94fe-b7199ac9a6c7.png)
@@ -20,7 +31,7 @@ You have the freedom to change the API level and you have to replace my firebase
 <br><br>
 
 <h2>In short:</h2>
-<strong>Please do not use this code for any kind of business/commercial area, this is only for educational purposes.</strong> <br><br>
+<strong><uPlease do not use this code for any kind of business/commercial area, this is only for educational purposes./></strong><br><br>
 
 
                                                 ******* Happy Coding ******* 
