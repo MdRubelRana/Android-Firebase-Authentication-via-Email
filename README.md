@@ -1,6 +1,6 @@
 # Android Firebase Authentication via Email/Password
 <h2>Description:</h2>
-You can easily setup user authentication for your android app by using email/password via firebase. This project builds using API 23 (exactly), but it's supported higher API also. For using this project use demo email and password. <br> <br>
+You can easily setup user authentication for your android app by using email/password via firebase. This project builds using API 23 (exactly), but it's supported higher API also. For using this project, use demo email and password. <br> <br>
 
 <strong>Demo email: admin@gmail.com</strong> <br>
 <strong>Password: password</strong><br> <br>
@@ -19,7 +19,7 @@ You have the freedom to change the API level and you have to replace my firebase
 ![Screenshot_1](https://user-images.githubusercontent.com/33339942/56866676-cd172800-69fd-11e9-929f-da9aa493c7bf.png)
 <br><br>
 
-<h2>In shot:</h2>
+<h2>In short:</h2>
 <strong>Please do not use this code for any kind of business/commercial area, this is only for educational purposes.</strong> <br><br>
 
 
