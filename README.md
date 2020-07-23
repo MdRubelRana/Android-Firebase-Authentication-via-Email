@@ -33,5 +33,10 @@ You have the freedom to change the API level and you have to replace my firebase
 <h2>In short:</h2>
 <strong>Please do not use this code for any kind of business/commercial area, this is only for educational purposes.</strong><br><br>
 
+## Contributors
+Md. Rubel Rana <contact@mdrubel.info>
+
+## License
+Licensed under the [MIT License](LICENSE).
 
                                                 ******* Happy Coding ******* 
